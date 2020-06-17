@@ -1,0 +1,36 @@
+.calendar {
+  width: 50%;
+  margin: auto;
+  font-size: 16px;
+}
+
+.calendar tr, .calendar td {
+  border: 1px solid black;
+}
+
+.calendar th {
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.calendar td {
+  padding: 20px 0px 0px 5px;
+}
+
+.month {
+  font-size: 25px;
+}
+
+.date {
+  color:blue;
+  font-size: 76px;
+}
+
+ul {
+  padding: 0px 5px 0px 20px;
+}
+
+a {
+  color:green;
+}
